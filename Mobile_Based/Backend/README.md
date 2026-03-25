@@ -1,1 +1,2 @@
-# BACKEND
+# backend
+dir: laragon\www\
