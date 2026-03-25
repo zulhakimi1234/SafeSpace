@@ -1,0 +1,2 @@
+# database: mysql
+# platform: localhost
